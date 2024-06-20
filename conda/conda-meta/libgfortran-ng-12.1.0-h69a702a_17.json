@@ -1,0 +1,31 @@
+{
+  "build": "h69a702a_17",
+  "build_number": 17,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgfortran5 12.1.0 hdcd56e2_17"
+  ],
+  "extracted_package_dir": "/home/scifaipy/anaconda3/pkgs/libgfortran-ng-12.1.0-h69a702a_17",
+  "files": [],
+  "fn": "libgfortran-ng-12.1.0-h69a702a_17.tar.bz2",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "/home/scifaipy/anaconda3/pkgs/libgfortran-ng-12.1.0-h69a702a_17",
+    "type": 1
+  },
+  "md5": "5fbe566f1e0821f3c7873cfe078951cb",
+  "name": "libgfortran-ng",
+  "package_tarball_full_path": "/home/scifaipy/anaconda3/pkgs/libgfortran-ng-12.1.0-h69a702a_17.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "libgfortran-ng=12.1.0",
+  "sha256": "a90bdf6ecce73edc432e1801ea3ae06eb07a34150d9ce3bd0c61b51673159192",
+  "size": 22299,
+  "subdir": "linux-64",
+  "timestamp": 1665885198000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/libgfortran-ng-12.1.0-h69a702a_17.tar.bz2",
+  "version": "12.1.0"
+}

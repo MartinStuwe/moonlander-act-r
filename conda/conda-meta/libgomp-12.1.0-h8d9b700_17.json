@@ -1,0 +1,56 @@
+{
+  "build": "h8d9b700_17",
+  "build_number": 17,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "_libgcc_mutex 0.1 conda_forge"
+  ],
+  "extracted_package_dir": "/home/scifaipy/anaconda3/pkgs/libgomp-12.1.0-h8d9b700_17",
+  "files": [
+    "lib/libgomp.so",
+    "lib/libgomp.so.1.0.0",
+    "share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION.gomp_copy"
+  ],
+  "fn": "libgomp-12.1.0-h8d9b700_17.tar.bz2",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "/home/scifaipy/anaconda3/pkgs/libgomp-12.1.0-h8d9b700_17",
+    "type": 1
+  },
+  "md5": "f2b48fe4fda03f77568360cf2481a850",
+  "name": "libgomp",
+  "package_tarball_full_path": "/home/scifaipy/anaconda3/pkgs/libgomp-12.1.0-h8d9b700_17.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libgomp.so",
+        "path_type": "softlink",
+        "sha256": "b414371e60dc9d4f4d7bab6cb14560d67a8b6097ed9e5d294e737f4add7262f9",
+        "size_in_bytes": 1004768
+      },
+      {
+        "_path": "lib/libgomp.so.1.0.0",
+        "path_type": "hardlink",
+        "sha256": "b414371e60dc9d4f4d7bab6cb14560d67a8b6097ed9e5d294e737f4add7262f9",
+        "sha256_in_prefix": "b414371e60dc9d4f4d7bab6cb14560d67a8b6097ed9e5d294e737f4add7262f9",
+        "size_in_bytes": 1004768
+      },
+      {
+        "_path": "share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION.gomp_copy",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libgomp=12.1.0",
+  "sha256": "2ca2ae1c402b9de0e9f5be7e7c4f60966dc90d7330f88f85087a2822b7054bf2",
+  "size": 466023,
+  "subdir": "linux-64",
+  "timestamp": 1665885152000,
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/libgomp-12.1.0-h8d9b700_17.tar.bz2",
+  "version": "12.1.0"
+}
